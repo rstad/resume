@@ -50,7 +50,7 @@ Support Team Manager, Jan 18 -- Dec 18
 
 *Joined as a Senior Support Engineer and quickly took on additional responsibility as the company's product offerings expanded, culminating in being the Manager of the API Support Team.*
 
--   Hired, trained, and led a team of API Support Engineers
+-   Hired, trained, and led a team of API Support Engineers spanning multiple states
 
 -   Identified and recorded product bugs based on a combination of customer reports and proactive analysis of error patterns
 
@@ -65,6 +65,8 @@ Support Team Manager, Jan 18 -- Dec 18
 -   Acted as technical escalation lead for junior team members
 
 -   Mentored team members and advocated for their career growth, skills development, and team transfer where appropriate
+
+-   Grew team from 4 to 10 engineers
 
 -   Led incident response, communications, and post-hoc analysis when systems failed
 
