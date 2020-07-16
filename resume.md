@@ -14,7 +14,7 @@ Experience
 ### Airbnb
 San Francisco, CA
 
-Systems Engineer, Aug 19 -- present
+Systems Engineer, Aug 19 -- Jul 20
 
 Senior Jira Developer (Contract), Jan 19 -- Aug 19
 
