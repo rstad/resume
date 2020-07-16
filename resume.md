@@ -14,9 +14,9 @@ Experience
 ### Airbnb
 San Francisco, CA
 
-Senior Jira Developer (Contract), Jan 19 -- Aug 19
-
 Systems Engineer, Aug 19 -- present
+
+Senior Jira Developer (Contract), Jan 19 -- Aug 19
 
 *Initially engaged with the Productivity Tools team specifically to improve Jira use company-wide. Later shifted focus to automation and standardization to improve efficiency across tools.*
 
@@ -42,11 +42,11 @@ Systems Engineer, Aug 19 -- present
 ### Easypost
 San Francisco, CA
 
-Senior Support Engineer (API), Jul 17 -- Nov 17
+Support Team Manager, Jan 18 -- Dec 18
 
 Support Lead, Nov 17 -- Dec 17
 
-Support Team Manager, Jan 18 -- Dec 18
+Senior Support Engineer (API), Jul 17 -- Nov 17
 
 *Joined as a Senior Support Engineer and quickly took on additional responsibility as the company's product offerings expanded, culminating in being the Manager of the API Support Team.*
 
@@ -113,9 +113,9 @@ Senior IT Support Technician, Mar 14 -- Apr 16
 ### Mindwalk Studios
 Beijing, China
 
-Project Manager, Apr 07 -- Mar 14
-
 Systems Administrator & IT Manager, Jun 11 -- Mar 14
+
+Project Manager, Apr 07 -- Mar 14
 
 Mindwalk Studios is an elite partner for digital art and animation production for the games industry. I managed a number of projects including 25+ artists to completion both on time and within budget. 
 
